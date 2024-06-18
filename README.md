@@ -1,1 +1,1 @@
-# CreditCardDefault_Prediction
+# Credit Card Default Prediction
