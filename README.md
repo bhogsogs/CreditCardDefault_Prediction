@@ -14,4 +14,4 @@ Achieving optimal model performance required efficient hyperparameter tuning. To
 
 The best performing model was able to secure a best score of 0.52595(out of 1), where the evaluation metric was a combination of the F1 Score and the Demographic Parity Ratio.
 
-(Kaggle Competition link - [link](https://www.kaggle.com/competitions/fair-ai/data))
+(Kaggle Competition [link](https://www.kaggle.com/competitions/fair-ai/data))
